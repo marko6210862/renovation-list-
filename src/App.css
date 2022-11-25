@@ -1,0 +1,80 @@
+body {
+  background-image: url(diy-tools.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App {
+  min-height: 80vh;
+  width: 700px;
+  margin-left: 150px;
+  margin-top: 100px;
+  }
+
+.crossed {
+  text-decoration: line-through 2px red;
+}
+
+ul, li {
+  list-style-type: none;
+  padding: 10px;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+.Conteiner{
+  display: flex; 
+  justify-content: center;
+  
+}
+
+.btnAdd{
+  width: 85px;
+  background-color: rgb(54, 80, 249);
+  font-size: 16px;
+  height: 43px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  border: none;
+}
+
+
+
+.btnDel {
+  width: 85px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  background-color: rgb(238, 23, 7);
+  border: none;
+  margin-left: 0px;
+  height: 43px;
+}
+
+input{
+  flex: 1;
+  padding: 5px;
+  height: 30px;
+  margin: auto;
+  font-size: 20px;
+}
+
+.ConteinerSearch {
+    display: flex; 
+    justify-content: center;
+    width: 85%;
+    height: 30px;
+}
+
+.ConteinerTwo {
+  display: flex;
+  background: fixed;
+  height: 50px;
+  }
+
