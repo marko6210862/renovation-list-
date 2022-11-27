@@ -59,7 +59,7 @@ h1{
 
 input{
   flex: 1;
-  padding: 0px;
+  padding: 5px;
   height: 30px;
   margin: auto;
   font-size: 20px;
@@ -76,7 +76,6 @@ input{
 .ConteinerTwo {
   display: flex;
   background: fixed;
-  height: 50px;
+  height: 43px;
   border: 2px solid black;
- }
-
+}
