@@ -63,6 +63,7 @@ input{
   height: 30px;
   margin: auto;
   font-size: 20px;
+  border: none;
 }
 
 .ConteinerSearch {
