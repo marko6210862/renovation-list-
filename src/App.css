@@ -77,5 +77,6 @@ input{
   display: flex;
   background: fixed;
   height: 50px;
-  }
+  border: 2px solid black;
+ }
 
