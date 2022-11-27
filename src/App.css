@@ -67,10 +67,11 @@ input{
 }
 
 .ConteinerSearch {
-    display: flex; 
-    justify-content: center;
-    width: 85%;
-    height: 30px;
+  display: flex; 
+  justify-content: center;
+  width: 85%;
+  height: 30px;
+  border: none;
 }
 
 .ConteinerTwo {
